@@ -1,0 +1,13 @@
+.pager--theme--light {
+  color: #000000;
+}
+
+.pager--theme--light .pager__item--active .pager__link {
+  color: #FFFFFF;
+  background: #F5170E;
+}
+
+.pager--theme--light .pager__link:hover {
+  color: #FFFFFF;
+  background: #F5170E;
+}
