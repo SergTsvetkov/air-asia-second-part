@@ -1,0 +1,19 @@
+.separator {
+  background: url(../img/reviews/middleline.jpeg);
+  min-height: 363px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.separator__content {
+  min-width: 50%;
+}
+
+.separator__title {
+  font-size: 48px;
+  font-weight: bold;
+  line-height: 1.1;
+  color: #FFFFFF;
+  max-width: 50%;
+}
