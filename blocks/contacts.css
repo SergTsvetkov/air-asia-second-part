@@ -18,9 +18,10 @@
   mix-blend-mode: normal;
   opacity: 0.8;
   padding: 19px;
-  width: 160px;
+  width: 191px;
   top: 100%;
   display: none;
+  border-radius: 5px;
 }
 
 .dropdown__menu::before {
@@ -40,7 +41,7 @@
 
 .dropdown__item {
   font-size: 13px;
-  font-weight: bold;
+  font-weight: 700;
   color: #1E1F20;
 }
 
